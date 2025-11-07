@@ -84,9 +84,9 @@ You can expand the project by:
 
 ## 🧑‍💻 Author
 **Tushar** — 4th-year Computer Science Engineering Student  
-Focus Areas: AI, ML, Data Science, Python Development  
+Focus Areas: AI, ML, Data Science, Python Development
+ **Note:** - It's and coursera  capstone project   
 
 ---
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+
