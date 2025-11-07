@@ -85,7 +85,7 @@ You can expand the project by:
 ## 🧑‍💻 Author
 **Tushar** — 4th-year Computer Science Engineering Student  
 Focus Areas: AI, ML, Data Science, Python Development
- **Note:** - It's and coursera  capstone project   
+**Note:** - It's and coursera  capstone project   
 
 ---
 
